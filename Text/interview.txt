@@ -1,0 +1,114 @@
+Task:
+У вас остались к нам вопросы?
+Decision:
+- Как развивается процесс работы? 
+- Есть ли возможность обучиться? Компания за курсы оплачивает? 
+- Что в первый день происходит? 
+- С кем я буду работать? Будет ли напарник? 
+- Меня сразу в проект добавляют? 
+- Какие технологии используете? 
+- Как проиходит процесс повышения зарплаты? Может как то контролируется по том как я работаю или какие-то уровни у вас есть? 
+- Что вы ожидаете от сотрудника в первые месяцы сотрудника? 
+- В связи с чем открылась данная позиция и если это замена, то с чем не справился предыдущий сотрудник? 
+- Как вы считаете, чего в моем опыте может не хватить для данной позиции?	
+- Какой сотрудник, на ваш взгляд, идеальнно впишется в команду?
+Task:
+Что будете делать первые 30 дней?
+Decision:
+- Буду готовиться и знакомиться с процессом работы и с коллективом. 
+- Изучать инструменты, необходимые для работы.
+Task:
+Расскажите о себе
+Decision:
+Меня зовут Давид. Я специалист в области информационных технологий. У меня более 5 лет опыта в администрировании серверов различных ОС и в разработки скриптов, ПО и БД. В текущем месте работы внедряю специализированные программные обеспечения, ввожу в эксплуатацию технику - принтеры, сканеры, компьютеры и администрирую сервера и виртуальные машины на windows. Для саморазвития я в свободное время читаю и перевожу техническую документацию на английском языке, программирую на Python и C++, администрирую свой веб-сервер и разрабатываю сайт-портфолио. Имеются свои проекты в github https://github.com/dato38it/. Мне интересно работать в команде, активно развиваться в программировании и изучать новые технологии.
+Task:
+Почему мы должны вбрать именно вас?
+Decision:
+Несмотря на то, что у меня мало опыта в данной области, я много времени потратил на развитие навыков, которые необходимы для данной роли. Кроме того мне интересно все, что связано с разработкой, поэтому я прохожу много курсов данную тему.
+Task:
+Не можешь решить задачу - что ответить?
+Decision:
+Не могу дать ответ вам прям сейчас, но уже завтра могу написать пост по данному вопросу. Потому что я могу быстро выучить это, стать профессионалом в данной области и добавить еще новый навык в багаж знаний.
+Task:
+Checking in (Как пройти регистрацию)
+Decision:
+- good afternoon. where are you flyng today?
+- I'm flying to Georgia
+- may I see you passport please?
+- yes, here you are
+- I'm sorry but / unfortunately, your flight has been delayed until p.m.
+- Oh, well, that's not too bad
+- are you checking any bags today?
+- yes, I have one suitcase to check and one bag to carry on
+- have you left your bags unattended at any time?
+- no, I've always had my bags with me
+- ok. that's good. right now, you have a middle seat. would you prefer a window seat or an aisle seat?
+- an aisle seat, please
+- ok, here's your boarding pass
+- thanks
+- your flight to Georgia departs from gate B25. the light boards at 5.30. have a nice flight.
+- ok, thank you
+Task:
+In a restaurant
+Decision:
+- good evening. do you have a reservation/
+- yes, a table for two. My name is ...
+- come this way. are you ready to order?
+- yes, I'll have the tuna, please
+- would you like that with fries or a salad
+- fries, please
+- what would you like to drink
+- a glass of wine, please
+- here you are, enjoy your meal
+- i'm sorry, but i asked you tuna, not salmon
+- no problem, i'll change it
+- can i have th check please
+- sure
+- I think, there's a mistake in the check. I had a glass of wine, no a bottle
+- please forgive me. I'll give a new one
+Task:
+Shopping
+Decision:
+- Hi. Can I help you?
+- Do you have any (potatoes)?
+- Yes I do
+- How much is it/are they?
+- 3 dolllars a kilo'  
+- I'd like 5 kilos, please
+- Here you are
+- Thanks
+Task:
+Buying coffee
+Decision:
+- hello, can I have a coffee, please
+- would you like a cappuccino, americano, espresso
+- cappuccino please
+- small, medium, large
+- large, please
+- would you like some milk or sugar
+- no, thank you
+- here you are. Anything else?
+- Yes, can i have a muffin please
+- blueberry, chocolate or banana
+- chocolate, please
+- eat in or take away?
+- take away, please
+- that's 3,75$, please
+- here's 4$. keep the change
+- thank you
+Task:
+Are you free on friday?
+Decision:
+- are you free on friday/ are you doing anything on friday
+- it depends on the situation, why
+- how about going to the cinema
+- sorry, i can't. i'm busy
+- oh, I see. what about this saturday
+- sounds great
+- what time shall i pick you up
+- at 6 in the evening
+- Great! Do you like italian food
+- sure
+- let's have dinner before we go
+- i'd love to
+- see you on saturday 
